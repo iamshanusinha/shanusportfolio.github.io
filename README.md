@@ -1,4 +1,4 @@
-[![MasterHead] "https://static.vecteezy.com/system/resources/previews/000/344/684/original/programming-code-on-laptop-banner-vector-flat-illustration.jpg"
+[![MasterHead]"https://static.vecteezy.com/system/resources/previews/000/344/684/original/programming-code-on-laptop-banner-vector-flat-illustration.jpg"]
 <h1 align="center">Hi 👋, I'm Shanu Sinha</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://getwallpapers.com/wallpaper/full/e/3/d/15259.jpg">
