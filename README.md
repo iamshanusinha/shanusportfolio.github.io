@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Visual Studio**
 
-- 💬 Ask me about **data science , Social Media**
+- 💬 Ask me about **data science ,data structure Social Media**
 
 - 📫 How to reach me **iamshanusinha@gmail.com**
 
