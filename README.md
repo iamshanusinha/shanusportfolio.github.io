@@ -1,4 +1,4 @@
-[![MasterHead](https://in.images.search.yahoo.com/search/images;_ylt=AwrKEt7gmKVjT1UkES.9HAx.;_ylu=c2VjA3NlYXJjaARzbGsDYXNzaXN0;_ylc=X1MDMjExNDcyMzAwNQRfcgMyBGZyA21jYWZlZQRmcjIDc2EtZ3Atc2VhcmNoBGdwcmlkA3hTbDVhYTRGU2R1ZjFWNHZTSmVfekEEbl9yc2x0AzAEbl9zdWdnAzQEb3JpZ2luA2luLmltYWdlcy5zZWFyY2gueWFob28uY29tBHBvcwM0BHBxc3RyA2Jhbm5lciBmb3IgY29tcHV0ZXIgBHBxc3RybAMyMARxc3RybAMzMwRxdWVyeQNiZXN0JTIwYmFubmVyJTIwZm9yJTIwY29tcHV0ZXIlMjBlbmdpbmVlcgR0X3N0bXADMTY3MTc5Njk4MAR1c2VfY2FzZQM-?p=best+banner+for+computer+engineer&fr=mcafee&fr2=sa-gp-search&ei=UTF-8&x=wrt&type=E210IN714G0#id=6&iurl=https%3A%2F%2Fwww.appliedconceptsengineering.com%2Fwp-content%2Fuploads%2F2016%2F04%2Fsoftware-engineering-and-development-banner.jpg&action=click)]
+[![MasterHead]https://static.vecteezy.com/system/resources/previews/000/344/684/original/programming-code-on-laptop-banner-vector-flat-illustration.jpg]
 <h1 align="center">Hi 👋, I'm Shanu Sinha</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://getwallpapers.com/wallpaper/full/e/3/d/15259.jpg">
